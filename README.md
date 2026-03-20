@@ -23,3 +23,11 @@ o sistema processa os dados e entrega uma análise clara no terminal:
 - **Soja Chicago:** US 11.66
 - **Valor Bruto Saca (60kg):** R$ 133.95
 - **Valor Líquido (Est. com frete/taxas):** R$ 120.55
+
+O sistema também rastreia as principais empresas do setor agrícola listadas na B3, permitindo correlacionar o preço da commodity com o desenvolvimento das companhias:
+**Ativos Monitorados:** SLCE3 (SLC Agrícola), GRO3 (BrasilAgro), SMT03 (São Martinho).
+**Frequência:** Intervalos de 15 minutos com histórico de 5 dias.
+**Visualização:** Gráficos de tendências gerados automaticamente.
+
+## Visualização de Tendência
+![Tendência Agro](tendencia_agro.png)
